@@ -1,0 +1,7 @@
+springBootApp/Application.class
+springBootApp/entities/User.class
+springBootApp/entities/UserDao.class
+springBootApp/controllers/DefaultController.class
+springBootApp/controllers/JspController.class
+springBootApp/WebSecurityConfig.class
+springBootApp/controllers/JsonRestController.class
